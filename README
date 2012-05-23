@@ -8,7 +8,7 @@ http://en.wikipedia.org/wiki/Perl
 I have applied tokenization to this file and have redirected the output to 
 output_token.txt 
 
-I have also attached the output_token.txt for reference.
+I have also attached the output_*.txt for reference.
 
 Have included different methods to perform parsing on the text file.
 1. token.pl
