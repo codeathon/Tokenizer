@@ -9,7 +9,7 @@ my $total_words = 0;
 print "\nCode to count the total number of words in the text file using different delimiters\n";
 
 while(my $line=<FILE>) {
-	my @words_line = split(/([+-,;.\s\/])/, $line);
+	my @words_line = split(/([+-,;.\s\/])/, $line);			# regex used here, [...] holds the list of delimiters
 	foreach my $token (@words_line) {
 		print W_FILE "$token\n";
 	}
