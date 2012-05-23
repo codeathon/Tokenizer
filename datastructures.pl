@@ -1,8 +1,6 @@
 #!/usr/bin/perl
 
-## Simple Data Structures
-
-# A Stack 
+# Stack & its operations 
 
 print "Create / Initialize a stack \n\n";
 
