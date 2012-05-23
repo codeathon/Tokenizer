@@ -754,7 +754,9 @@ language
   
 before 
   
-Perl's 
+Perl 
+' 
+s 
   
 official 
   
@@ -916,7 +918,9 @@ capitalized
   
 the 
   
-language's 
+language 
+' 
+s 
   
 name 
   
@@ -1088,7 +1092,9 @@ canonical
   
 including 
   
-Wall's 
+Wall 
+' 
+s 
   
 own 
   
@@ -1146,7 +1152,9 @@ published
   
 by 
   
-O'Reilly 
+O 
+' 
+Reilly 
   
 Media 
 , 
@@ -1246,7 +1254,9 @@ items
 . 
 
  
-O'Reilly 
+O 
+' 
+Reilly 
   
 owns 
   
@@ -1324,7 +1334,9 @@ basis
 . 
 [20] 
   
-O'Reilly 
+O 
+' 
+Reilly 
   
 also 
   
@@ -1690,7 +1702,9 @@ first
   
 is 
   
-"There's 
+"There 
+' 
+s 
   
 more 
   
@@ -2208,7 +2222,9 @@ of
   
 Perl 
   
-5's 
+5 
+' 
+s 
   
 module 
   
@@ -3172,7 +3188,9 @@ find
 . 
  
   
-Perl's 
+Perl 
+' 
+s 
   
 function 
   
@@ -4570,7 +4588,9 @@ in
   
 the 
   
-interpreter's 
+interpreter 
+' 
+s 
   
 life-cycle 
 . 
@@ -4622,7 +4642,9 @@ happens
   
 in 
   
-Perl's 
+Perl 
+' 
+s 
   
 compile 
   
@@ -4646,7 +4668,9 @@ happens
   
 in 
   
-Perl's 
+Perl 
+' 
+s 
   
 run 
   
@@ -5318,7 +5342,9 @@ case
 . 
  
   
-It's 
+It 
+' 
+s 
   
 a 
   
@@ -5514,7 +5540,9 @@ case
   
 Adam 
   
-Kennedy's 
+Kennedy 
+' 
+s 
   
 PPI 
   
@@ -5606,9 +5634,13 @@ from
   
 the 
   
-'Halting 
+ 
+' 
+Halting 
   
-Problem'" 
+Problem 
+' 
+" 
 , 
 [36] 
   
@@ -6014,9 +6046,13 @@ known
   
 as 
   
-'dual 
+ 
+' 
+dual 
   
-lifed' 
+lifed 
+' 
+ 
   
 modules 
   
@@ -7314,7 +7350,9 @@ results
 . 
  
   
-Perl's 
+Perl 
+' 
+s 
   
 performance 
   
@@ -7640,7 +7678,9 @@ tool
   
 was 
   
-Apache's 
+Apache 
+' 
+s 
   
 mod_perl 
 , 
@@ -7740,7 +7780,9 @@ that
   
 typically 
   
-isn't 
+isn 
+' 
+t 
   
 present 
   
@@ -7862,7 +7904,9 @@ because
   
 of 
   
-Perl's 
+Perl 
+' 
+s 
   
 interpreted 
   
@@ -7890,7 +7934,9 @@ to
   
 meet 
   
-one's 
+one 
+' 
+s 
   
 performance 
   
@@ -8430,7 +8476,9 @@ Perl
 . 
 [56] 
   
-Kuhn's 
+Kuhn 
+' 
+s 
   
 thesis 
   
@@ -8974,9 +9022,13 @@ searches
   
 for 
   
-'Perl 
+ 
+' 
+Perl 
   
-programming' 
+programming 
+' 
+ 
 , 
  
   
@@ -9084,7 +9136,9 @@ community
  
 
  
-Perl's 
+Perl 
+' 
+s 
   
 culture 
   
@@ -9146,7 +9200,9 @@ evolution
 , 
  
   
-Perl's 
+Perl 
+' 
+s 
   
 community 
   
@@ -9214,7 +9270,9 @@ of
   
 Larry 
   
-Wall's 
+Wall 
+' 
+s 
   
 first 
   
@@ -9716,7 +9774,9 @@ round
   
 The 
   
-phrase's 
+phrase 
+' 
+s 
   
 first 
   
@@ -10032,7 +10092,9 @@ virtue
   
 of 
   
-Perl's 
+Perl 
+' 
+s 
   
 syntactic 
   
@@ -10468,7 +10530,9 @@ allows
   
 the 
   
-program's 
+program 
+' 
+s 
   
 source 
   
