@@ -13,3 +13,4 @@ I have also attached the output_token.txt for reference.
 Have included different methods to perform parsing on the text file.
 1. token.pl
 2. parsewords.pl
+3. datastructures.pl
