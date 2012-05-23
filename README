@@ -1,0 +1,11 @@
+A sample Tokenizer built using Perl and its built-in function - split().
+
+I have create the sample inuput file - perl.
+
+Its basically an ASCII form of the Wikipedia page which talks about perl : 
+http://en.wikipedia.org/wiki/Perl
+
+I have applied tokenization to this file and have redirected the output to 
+output_token.txt 
+
+I have also attached the output_token.txt for reference.
