@@ -1,17 +1,10 @@
 Create / Initialize a stack 
 
-Stack before pushing any value :
-  Integer variables 
-Stack content after Item is pushed:
-  Integer variables 1: Perl was originally named Pearl. 
- 
-Push item on stack:
-  Integer variables 1: Perl was originally named Pearl. 
- 2: Perl is a general-purpose programming language originally developed for text manipulation. 
- 
-Top of stack, popped:  2: Perl is a general-purpose programming language originally developed for text manipulation. 
+Create / Initialize a stack 
 
-What is left of the stack:
-  Integer variables 1: Perl was originally named Pearl. 
- 
+Create / Initialize a stack 
+
+Create / Initialize a stack 
+
+Create / Initialize a stack 
 
