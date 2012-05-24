@@ -30,7 +30,7 @@ sub check_line {
     # Check for that =.
     if($line =~ /^\s*if\s*\(.*[^!<>=]=([^=].*\)|\))/) {
 	if(!$badfound) {
-	    print("The following suspicious lines were found:\n");
+	    print("Following were the faulty if statements:\n");
 	    $badfound = 1;
 	}
 	print "$fn:$.: $line\n";
