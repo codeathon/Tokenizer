@@ -1,6 +1,21 @@
-A sample Tokenizer built using Perl and its built-in function - split().
+1. code_check.pl
 
-I have create the sample inuput file - perl.
+This Perl program performs a check of 'C Programs'. Here I have written a code that checks for an assignment
+statement made by mistake inside an if statement.
+example
+if (x = y) {
+
+}
+
+is an erroneous if statement.
+
+Such a statement is then redirected to the output_codecheck file. You could check that file to see how the 
+erroneous if statement is identified and outputted.
+
+2. token.pl
+This Perl program is a sample Tokenizer built using Perl's built-in function - split().
+
+I have create the sample inuput file - Perl.
 
 Its basically an ASCII form of the Wikipedia page which talks about perl : 
 http://en.wikipedia.org/wiki/Perl
@@ -11,8 +26,15 @@ output_token.txt
 I have also attached the output_*.txt for reference.
 
 Have included different methods to perform parsing on the text file.
-1. code_check.pl
-2. token.pl
+
+
 3. parsewords.pl
+This Perl program is a better way of performing tokenization based on whitespaces. 
+I have used the library and the shellwords () function to do whitespacing tokenization.
+
 4. datastructures.pl
+This Perl program includes a simple implementation of the Stack Data structure using Perl.
+
 5. http.pl
+This Perl program connects to the specified URL and the response header is stored in a string along with 
+the html content
