@@ -59,7 +59,6 @@ sub check_file {
 
     close IN;
 }
-
 #
 # Go through the argument list and check each file
 #
