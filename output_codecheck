@@ -1,0 +1,3 @@
+file opened 
+Following were the faulty if statements:
+:8:         if ( x = y ){
