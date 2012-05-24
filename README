@@ -16,4 +16,3 @@ Have included different methods to perform parsing on the text file.
 3. parsewords.pl
 4. datastructures.pl
 5. http.pl
-6. cgi.pl
