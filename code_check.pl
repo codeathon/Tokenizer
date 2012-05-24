@@ -1,3 +1,8 @@
+# This code checks for faulty if statements.
+# example is in test.c - Here I have included an assignment in the if statement, which is 
+# an erroneous code and is picked up by my code_check function and is displayed
+# in the output_codecheck file.
+
 use strict;
 
 my $badfound = 0;
