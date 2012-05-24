@@ -13,7 +13,7 @@ while(my $line=<FILE>) {
 	foreach my $token (@words_line) {
 		print W_FILE "$token\n";
 	}
-	my $word_count = split(/([' ' + - , ; . ])/, $line);
+	my $word_count = split(/([+-,;.\s\/])/, $line);
 	my $t_words = $word_count;
 	$total_words = $total_words + $t_words; 
 }

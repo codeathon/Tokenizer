@@ -12,6 +12,4 @@ Push item on stack:
 Top of stack, popped:  2: Perl is a general-purpose programming language originally developed for text manipulation. 
 
 What is left of the stack:
-  Integer variables 1: Perl was originally named Pearl. 
- 
-
+  Integer variables 1: Perl was originally named Pearl.
