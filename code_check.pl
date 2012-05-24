@@ -5,15 +5,15 @@
 
 use strict;
 
-my $badfound = 0;
+my $bad = 0;
 sub check_line {		# Checks each line of the file for a faulty if statement
     my($fn, $line) = @_;
 
     # Check for that =.
     if($line =~ /^\s*if\s*\(.*[^!<>=]=([^=].*\)|\))/) {
-	if(!$badfound) {
+	if(!$bad) {
 	    print OUT "Following were the faulty if statements:\n";
-	    $badfound = 1;
+	    $bad = 1;
 	}
 	print OUT "$fn:$.: $line\n";
     }
@@ -36,4 +36,4 @@ sub check_file {		# Open the file and call check_line for each line in the file
 }
 
 check_file();
-if(!$badfound) { print OUT "No suspicious lines were found.\n"; close OUT;}
+if(!$bad) { print OUT "No suspicious lines were found.\n"; close OUT;}
