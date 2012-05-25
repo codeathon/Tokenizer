@@ -5,7 +5,7 @@
 
 use strict;
 
-my $bad = 0;
+my $bad = 0;			# my bad :)
 sub check_line {		# Checks each line of the file for a faulty if statement
     my($fn, $line) = @_;
 
